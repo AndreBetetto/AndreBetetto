@@ -1,4 +1,4 @@
-## Olá, eu sou o Leonardo Betetto, programador em formação!
+## Olá, eu sou o Andre Luiz, estudante de informática no CTI!
 
 <div align="center">
   <a href="https://github.com/AndreBetetto">

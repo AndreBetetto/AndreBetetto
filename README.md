@@ -7,27 +7,30 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
-  <?xml version="1.0" ?><svg enable-background="new 0 0 515.91 728.5" height="512" id="Layer_1" version="1.1" viewBox="0 0 512.00003 512" width="512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs7"/><g id="g3824" transform="translate(148.11806,138.35224)"><path d="m -733.62329,72.267944 c 0,203.804876 -165.21649,369.021366 -369.02141,369.021366 -203.8048,0 -369.0213,-165.21649 -369.0213,-369.021366 0,-203.804874 165.2165,-369.021364 369.0213,-369.021364 203.80492,0 369.02141,165.21649 369.02141,369.021364 z" id="path4878" style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.69372682,0,0,0.69372682,872.81612,67.513546)"/><path d="M 107.84949,-98.602257 C 92.493787,-60.954304 83.231987,-36.328024 66.135387,0.20085614 76.617787,11.312106 89.484387,24.251686 110.3795,38.865776 87.915087,29.621786 72.591587,20.341076 61.140187,10.710446 39.259887,56.367046 4.9797874,121.40283 -64.585822,246.39777 c 54.6762094,-31.56545 97.060109,-51.0259 136.559909,-58.45149 -1.696,-7.29506 -2.6605,-15.1861 -2.595,-23.41953 l 0.065,-1.7516 c 0.8677,-35.02952 19.09,-61.96722 40.676113,-60.13821 21.5861,1.82902 38.3647,31.72582 37.4971,66.75537 -0.1631,6.59145 -0.9065,12.93234 -2.2057,18.81346 39.0709,7.64297 81.0017,27.0536 134.93811,58.192 C 269.7144,226.81765 260.2216,209.1676 251.1563,192.3577 236.8771,181.29028 221.983,166.88599 191.602,151.29245 c 20.8822,5.42606 35.8334,11.68629 47.4876,18.68371 C 146.9204,-1.6272139 139.4566,-24.429744 107.84949,-98.602257 z" id="path2518" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"/></g></svg>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" height="30" width="40" viewBox="0 0 24 24">
+<path d="M14.3,19.414c0.216-0.569,0.342-1.218,0.342-1.913c0-2.129-1.139-3.86-2.539-3.86c-1.412,0-2.55,1.731-2.55,3.86	c0,0.683,0.114,1.332,0.33,1.89c-4.657,0.49-7.936,2.437-9.268,3.313c2.243-3.234,4.589-7.025,6.831-11.386	c0.558-1.082,1.082-2.152,1.571-3.199C9.21,8.244,9.404,8.381,9.62,8.518c1.002,0.626,1.936,0.968,2.619,1.15	c-0.501-0.376-1.047-0.831-1.605-1.389c-0.421-0.421-0.797-0.843-1.116-1.253C10.463,4.954,11.283,2.961,12,1.071	c1.195,3.165,2.687,6.615,4.554,10.247c1.207,2.334,2.437,4.509,3.666,6.513c-0.353-0.193-0.74-0.376-1.15-0.535	c-0.706-0.273-1.366-0.444-1.936-0.546c0.774,0.387,1.674,0.9,2.619,1.583c0.615,0.456,1.161,0.911,1.628,1.355	c0.011,0.011,0.011,0.011,0.023,0.023c0.649,1.059,1.321,2.038,1.981,2.994C22.076,21.839,18.854,19.926,14.3,19.414z"></path>
+</svg>
 
 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+
+
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
   <img align="center" alt="AndreBetetto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
